@@ -1,0 +1,67 @@
+body {
+  background: blue;
+  background-image: linear-gradient(to right, #b2ebf2, #00b8d4);
+  font-family: 'Poppins', sans-serif;
+}
+
+.logo {
+  padding: 10px;
+}
+
+.container {
+  margin-left: auto;
+  margin-right: auto;
+  width: 20%;
+  display: flex;
+  flex-direction: column;
+  border-radius: 10px;
+  border: 2px solid orange;
+  background: white;
+  height: 500px;
+  margin-top: 20vh;
+}
+
+.employee-search,
+.submit {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.employee-search {
+  border: 1px solid grey;
+  height: 30px;
+  width: 65%;
+}
+
+.header {
+  color: grey;
+  margin-top: 50px;
+}
+
+.submit {
+  background-color: #00b8d4;
+  border: none;
+  color: white;
+  height: 30px;
+  width: 70px;
+}
+
+.employee-geo {
+  margin-left: auto;
+  margin-right: auto;
+  width: 60%;
+}
+
+.text-blue {
+  color: #00b8d4;
+}
+
+.text-red {
+  color: red;
+}
+
+.text-center {
+  text-align: center;
+}
