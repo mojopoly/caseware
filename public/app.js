@@ -30,6 +30,8 @@ submitSearch.addEventListener('click', () => {
       }
     });
   } else {
-    // ui.clearProfile()
+    employeeGeo.innerHTML = `
+    <h3 class="text-center text-red employee-geo">Please type in a name!</h3>
+  `;
   }
 });
