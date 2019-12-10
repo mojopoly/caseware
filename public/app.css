@@ -1,6 +1,5 @@
 body {
-  background: blue;
-  background-image: linear-gradient(to right, #b2ebf2, #00b8d4);
+  background-image: linear-gradient(to right, #0684ac66, #0684ac);
   font-family: 'Poppins', sans-serif;
 }
 
@@ -36,7 +35,7 @@ body {
 }
 
 .header {
-  color: grey;
+  color: #3B3939D6;
   margin-top: 50px;
 }
 
